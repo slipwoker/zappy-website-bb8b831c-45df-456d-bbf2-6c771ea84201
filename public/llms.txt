@@ -1,0 +1,101 @@
+# JERSEY BEAR — Generative Engine Optimization Map
+
+> An online retail store focused on selling soccer shirts and football jerseys, catering to soccer enthusiasts, fans, and players. The store is optimized for conversions and a smooth buying experience.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו את הקולקציה הרשמית של חולצות כדורגל NFL וגופיות איכותיות ב-JERSEY BEAR. עיצובים בלעדיים, משלוח מהיר וחוויית קנייה חלקה לכל אוהד אמיתי. הצטרפו למגרש עוד היום!
+
+### מדריך מתנות
+https://example.com/gift-guide
+מחפשים את המתנה האולטימטיבית לחובב הפוטבול? מדריך המתנות של JERSEY BEAR יעזור לכם לבחור חולצת NFL מושלמת, כולל דגמי khalil mack jersey bears. רכשו בקלות והפכו כל אירוע לחגיגת ספורט!
+
+### הזמנות צוות
+https://example.com/team-orders
+הלבישו את כל הקבוצה בגאווה עם שירות הזמנות הצוות של JERSEY BEAR. גופיות football jersey bears מקצועיות, הדפסים מותאמים ומחירים מיוחדים לקבוצות. צרו קשר והתחילו לשחק בסטייל!
+
+### צור קשר
+https://example.com/contact
+יש שאלה על מידות, משלוחים או חולצות payton jersey bears? צוות המומחים של JERSEY BEAR כאן בשבילכם. השאירו פרטים ונחזור אליכם במהירות עם כל התשובות – כי מגיע לכם שירות של אלופים!
+
+### Products
+https://example.com/products
+המוצרים שלנו - JERSEY BEAR
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - JERSEY BEAR
+
+### Category
+https://example.com/category/:slug
+מוצרים - JERSEY BEAR
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About JERSEY BEAR
+An online retail store focused on selling soccer shirts and football jerseys, catering to soccer enthusiasts, fans, and players. The store is optimized for conversions and a smooth buying experience.
+
+## Target Audience
+- soccer fans and players
+- אוהדי כדורגל ושחקנים
+- קבוצות כדורגל נוער
+- רוכשי מתנות לאוהדי כדורגל
+
+## Industry
+E-commerce / Sports Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
